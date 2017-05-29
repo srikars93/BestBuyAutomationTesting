@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="24271" started-at="2017-05-21T18:10:47Z" finished-at="2017-05-21T18:11:11Z">
+  <suite name="Default suite" duration-ms="50796" started-at="2017-05-29T11:50:57Z" finished-at="2017-05-29T11:51:47Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="24271" started-at="2017-05-21T18:10:47Z" finished-at="2017-05-21T18:11:11Z">
+    <test name="Default test" duration-ms="50796" started-at="2017-05-29T11:50:57Z" finished-at="2017-05-29T11:51:47Z">
       <class name="com.bestbuy.automation.testing.tests.SignOnPage_Test">
-        <test-method status="PASS" signature="test_signInPage()[pri:0, instance:com.bestbuy.automation.testing.tests.SignOnPage_Test@5056dfcb]" name="test_signInPage" duration-ms="24253" started-at="2017-05-21T13:10:47Z" finished-at="2017-05-21T13:11:11Z">
+        <test-method status="PASS" signature="test_signInPage()[pri:0, instance:com.bestbuy.automation.testing.tests.SignOnPage_Test@5056dfcb]" name="test_signInPage" duration-ms="50777" started-at="2017-05-29T06:50:57Z" finished-at="2017-05-29T06:51:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_signInPage -->
